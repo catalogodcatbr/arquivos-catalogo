@@ -1,7 +1,11 @@
-# Arquivos Catálogo de Bases
+# Arquivos Catálogo de Bases de Dados
+
+Um repositórios de documentos relacionados ao eixo modelo do projeto Catálogo de Bases de Dados - Portal nacional de metadados.
+
+O objetivo do Catálogo de Bases é disponibilizar metadados sobre os dados que são gerenciados pelo poder público, de maneira simples e em canais centralizados e descentralizados, e permitir a sua descoberta para fomentar o reuso de dados pelo governo, pelas empresas e pelas organizações sem fins lucrativos e estimular a melhoria da prestação dos serviços públicos e privados e a inovação no país
+
 
 ## Lista de pastas e documentos
-
 
 - Pasta Documentos
     - Minuta modelo de referencia - OK
