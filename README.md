@@ -1,60 +1,29 @@
 # Arquivos Catálogo de Bases
 
-Lista de pastas e documentos
+##Lista de pastas e documentos
 
 
 - Pasta Documentos
-<details><summary>Click to expand</summary>
-- Minuta modelo de referencia - OK
-</details>
-<details><summary>Click to expand</summary>
--     Minuta DCAT-BR - OK
-</details>
-<details><summary>Click to expand</summary>
--     Selo bronze - OK
-</details>
-<details><summary>Click to expand</summary>
--     Minuta selo prata 
-</details>
-<details><summary>Click to expand</summary>
--     Minuta selo ouro
-</details>
-
- 
-    
+    - Minuta modelo de referencia - OK
+    - Minuta DCAT-BR - OK
+    - Selo bronze - OK
+    - Minuta selo prata 
+    - Minuta selo ouro
 
 - Pasta Estudos e prospeções
-- <details><summary>Click to expand</summary>
-
-</details>Comparativo de padrões - OK
+    - Comparativo de padrões - OK
     
-Pasta Fluxos
-- <details><summary>Click to expand</summary>
-
-</details>Minuta Fluxo Negocial GT Catálogo - OK
-        
-
+- Pasta Fluxos
+    - Minuta Fluxo Negocial GT Catálogo - OK
+      
 - Pasta MER
-- <details><summary>Click to expand</summary>
-
-</details>MER Selo Bronze - OK
-
- 
+    - MER Selo Bronze - OK
 
 - Pasta Parcerias
+    - CGU
+        - Nome dos Campos - OK
+        - word com os campos - OK
 
-- <details><summary>Click to expand</summary>
-
-</details>CGU
-- Nome dos Campos - OK
-- word com os campos - OK
-<details><summary><details><summary>Click to expand</summary>
-Click to expand
-</details></summary>
-
-</details>
-
-**
 
 ## Getting started
 
