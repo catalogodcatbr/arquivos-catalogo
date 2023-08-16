@@ -1,6 +1,30 @@
 # Arquivos Catálogo de Bases
 
+**Inserido no GIT
+Talvez Colocar no Plone (Criar Página)
 
+
+Documentos
+    Minuta modelo de referencia - OK
+    Minuta DCAT-BR - OK
+    Selo bronze - OK
+    Minuta selo prata 
+    Minuta selo ouro 
+    
+Estudos e prospeções
+    Comparativo de padrões - OK
+    
+Fluxos
+    fluxo-negocial-gt-catalogo (GT/catalogo/artefatos/fluxo) em PDF - OK
+        
+MER
+    MER Selo Bronze - OK
+
+ 
+
+Propostas parceria CGU/SGD
+    Nome dos Campos - OK
+    word com os campos - OK**
 
 ## Getting started
 
