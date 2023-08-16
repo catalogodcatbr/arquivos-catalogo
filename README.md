@@ -1,30 +1,60 @@
 # Arquivos Catálogo de Bases
 
-**Inserido no GIT
-Talvez Colocar no Plone (Criar Página)
+Lista de pastas e documentos
 
 
-Documentos
-    Minuta modelo de referencia - OK
-    Minuta DCAT-BR - OK
-    Selo bronze - OK
-    Minuta selo prata 
-    Minuta selo ouro 
+- Pasta Documentos
+<details><summary>Click to expand</summary>
+- Minuta modelo de referencia - OK
+</details>
+<details><summary>Click to expand</summary>
+-     Minuta DCAT-BR - OK
+</details>
+<details><summary>Click to expand</summary>
+-     Selo bronze - OK
+</details>
+<details><summary>Click to expand</summary>
+-     Minuta selo prata 
+</details>
+<details><summary>Click to expand</summary>
+-     Minuta selo ouro
+</details>
+
+ 
     
-Estudos e prospeções
-    Comparativo de padrões - OK
+
+- Pasta Estudos e prospeções
+- <details><summary>Click to expand</summary>
+
+</details>Comparativo de padrões - OK
     
-Fluxos
-    fluxo-negocial-gt-catalogo (GT/catalogo/artefatos/fluxo) em PDF - OK
+Pasta Fluxos
+- <details><summary>Click to expand</summary>
+
+</details>Minuta Fluxo Negocial GT Catálogo - OK
         
-MER
-    MER Selo Bronze - OK
+
+- Pasta MER
+- <details><summary>Click to expand</summary>
+
+</details>MER Selo Bronze - OK
 
  
 
-Propostas parceria CGU/SGD
-    Nome dos Campos - OK
-    word com os campos - OK**
+- Pasta Parcerias
+
+- <details><summary>Click to expand</summary>
+
+</details>CGU
+- Nome dos Campos - OK
+- word com os campos - OK
+<details><summary><details><summary>Click to expand</summary>
+Click to expand
+</details></summary>
+
+</details>
+
+**
 
 ## Getting started
 
